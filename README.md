@@ -68,7 +68,7 @@ Prior art as code embeds prior art directly in your source repository. It provid
 
 Each concept is described in its own separate document, making it easy to update, reference, and understand individually. The main document indexes them all. This modular approach is recommended for complex projects.
 
-*For reference: [github.com/sjyotis/thought-os](github.com/sjyotis/thought-os)*
+*For reference: [http://github.com/sjyotis/thought-os](https://github.com/sjyotis/thought-os)*
 
 ---
 
